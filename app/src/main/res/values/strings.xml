@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">DAM__JosueCaman</string>
+    <string name="nombres">plain_text_nombreyapellido</string>
+    <string name="plaintext_apellidosynombres" />
+    <string name="textview_apellidosynombres">Apellidos y nombre</string>
+    <string name="textview_correo">Correo Electronico</string>
+    <string name="input_email" />
+    <string name="textview_clave">Clave</string>
+    <string name="input_clave" />
+    <string name="textview_fechadeN">Fecha de nacimiento</string>
+    <string name="input_fechadeN" />
+    <string name="textview_carrera">Carrera</string>
+    <string name="radiobutton_Sistemas">Ingenieria de sistemas</string>
+    <string name="radiobutton_Ambiental">Ingenieria Ambiental</string>
+    <string name="radiobutton_Mecanica">Ingenieria Mecanica</string>
+    <string name="radiobutton_Administracion">Administracion</string>
 </resources>
