@@ -14,4 +14,10 @@
     <string name="radiobutton_Ambiental">Ingenieria Ambiental</string>
     <string name="radiobutton_Mecanica">Ingenieria Mecanica</string>
     <string name="radiobutton_Administracion">Administracion</string>
+    <string name="textview_convocatoria">¿Porque medio se entero de la convocatoria?</string>
+    <string name="checkbox_radio">Radio</string>
+    <string name="checkbox_internet">Internet</string>
+    <string name="checkbox_amigo">Amigo</string>
+    <string name="checkbox_publicidad">Publicidad</string>
+    <string name="button_enviar">Enviar</string>
 </resources>
